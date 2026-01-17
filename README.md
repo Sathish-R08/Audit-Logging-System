@@ -30,11 +30,11 @@ The project includes a React frontend and a Node.js + Express backend with Mongo
 
 ##Check installations:
 
-##1. Clone Repository
+1. Clone Repository
 --git clone https://github.com/your-username/audit-logging-system.git
 --cd audit-logging-system
 
-##2. Backend Setup
+2. Backend Setup
 --cd backend
 --npm install
 --Create .env file inside backend:
@@ -52,10 +52,9 @@ npm install
 npm start
 http://localhost:3000
 
-Thank you
 Running the App
 Start backend first
-
 Start frontend in a new terminal
-
 Make sure both servers are running
+
+Thank you Thats it ready!
