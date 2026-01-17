@@ -31,13 +31,13 @@ The project includes a React frontend and a Node.js + Express backend with Mongo
 ##Check installations:
 
 1. Clone Repository
---git clone https://github.com/your-username/audit-logging-system.git
---cd audit-logging-system
+git clone https://github.com/your-username/audit-logging-system.git
+cd audit-logging-system
 
 2. Backend Setup
---cd backend
---npm install
---Create .env file inside backend:
+cd backend
+npm install
+Create .env file inside backend:
 
 env
 PORT=5000
